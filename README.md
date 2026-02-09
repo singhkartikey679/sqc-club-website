@@ -1,10 +1,15 @@
 # SQC – Quantum Computing Club | NIT Jalandhar
 
-Official website for **Super Quant Coders (SQC)**, the Quantum Computing Club of **NIT Jalandhar**.  
+Official website for **Super Quant Coders (SQC)**, the Quantum Computing Club of **Dr. B. R. Ambedkar National Institute of Technology, Jalandhar**.  
 This project showcases club events, workshops, insights, and initiatives focused on **Quantum Computing, Cryptography, and IoT**.
 
 ---
 
+## 🌐 Live Preview
+> *(Add your GitHub Pages / deployment link here)*  
+Example: `https://username.github.io/sqc-website`
+
+---
 
 ## ✨ Features
 
@@ -17,6 +22,24 @@ This project showcases club events, workshops, insights, and initiatives focused
 
 ---
 
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **Vanilla JavaScript** (optional / future scope)
+- **GitHub Pages** (for deployment)
+
+---
+
+
+## 👨‍💻 Author **Kartikey Singh** 
+- 🎓 First Year B.Tech Student
+- 📚 Branch: Electronics and Communication Engineering
+- 🏫 Dr. B.R. Ambedkar National Institute of Technology, Jalandhar
+- 📍 Jalandhar, Punjab, India
+
+---
+
 
 ## 📂 Project Structure
 
@@ -24,9 +47,8 @@ This project showcases club events, workshops, insights, and initiatives focused
 sqc-website/
 │── index.html
 │── style.css
-│── images/
-│   ├── iot.jpg
-│   ├── blog1.jpg
-│   ├── blog2.jpg
-│   ├── blog3.jpg
+├── iot.jpg
+├── blog1.jpg
+├── blog2.jpg
+├── blog3.jpg
 │── README.md
