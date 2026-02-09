@@ -5,11 +5,6 @@ This project showcases club events, workshops, insights, and initiatives focused
 
 ---
 
-## 🌐 Live Preview
-> *(Add your GitHub Pages / deployment link here)*  
-Example: `https://username.github.io/sqc-website`
-
----
 
 ## ✨ Features
 
